@@ -7,7 +7,7 @@
 A comprehensive **data analysis + machine learning** project that predicts crime trends in Chicago using historical data. Designed to support law enforcement and urban planning through data-driven insights.
 
 > 📌 **Course Project** - Data Analysis & Machine Learning  
-> 📁 **Repository**: `project2-Chicago-Crime-Rate`
+> 📁 **Repository**: `ML-project2-Chicago-Crime-Rate`
 
 ---
 
@@ -101,8 +101,8 @@ https://via.placeholder.com/400x200?text=Crime+Hotspot+Map+Preview
 
 ## Clone repository
 ```bash
-git clone https://github.com/mdzaheerjk/project2-Chicago-Crime-Rate.git
-cd project2-Chicago-Crime-Rate
+git clone https://github.com/mdzaheerjk/ML-project2-Chicago-Crime-Rate.git
+cd ML-project2-Chicago-Crime-Rate
 ```
 
 ## Install dependencies
@@ -115,7 +115,7 @@ jupyter notebook "Project 3 - Predict Crime Rate in Chicago.ipynb"
 ### 📂 Project Structure
 ```bash
 text
-project2-Chicago-Crime-Rate/
+ML-project2-Chicago-Crime-Rate/
 ├── data/
 │   ├── Chicago_Crimes_*.csv      # Raw datasets
 ├── outputs/
